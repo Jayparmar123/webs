@@ -1,0 +1,42 @@
+
+.clr{color: #f92f57;}
+
+.clw{color: white;}
+
+.hv:hover{ color: #f92f57;}
+
+.clrr{color: #241f33;}
+.bgcl{background-color: #241f33;}
+
+.cll{color: #45505f;}
+
+
+.btn1{height: 50px;width: 200px;background-color: #241f33;color: white;border: 0px;border-radius: 10px;font-size: 18px;}
+.btn1:hover{background-color: #f92f57;}
+
+.fs10{font-size: 70px;}
+
+.myfs{
+    font-size: 5vw;
+}
+
+.btn2{height: 50px;width: 50px;border: 2px solid #241f33;border-radius: 10px;color: #241f33;}
+.btn2:hover{color: #f92f57;border: 2px solid #f92f57;}
+
+.tac{text-align: center;}
+
+.btn3{height: 50px;width: 200px;border: 1px solid #241f33;border-radius: 10px;color: #241f33;}
+.btn3:hover{background: #241f33;color: white;}
+
+.btn4{height: 50px;width: 300px;border: 1px solid white;border-radius: 10px;color: white;background: none;}
+.btn4:hover{background: #f92f57;color: white;}
+
+.bdr1{border: 2px solid #241f33; border-radius: 10px;}
+.bdr1:hover{box-shadow: 5px 5px 0px #241f33;transition: 0.5s;}
+
+
+.smb1{border: 0px;background-color: #241f33;color: white;height: 40px;width: 40px;}
+.smb2{border: 0px;background-color: white;color: #241f33;height: 40px;width: 40px;}
+.smb2:hover{color: #f92f57;}
+
+.box{box-shadow: 15px 15px 0px #241f33;}
